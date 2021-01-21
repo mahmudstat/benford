@@ -1,17 +1,31 @@
-References 
-1.	Benford, F. (1938). The Law of Anomalous Numbers. Proceedings of the American Philosophical Society, 78(4), 551-572. Retrieved November 2, 2020, from http://www.jstor.org/stable/984802
-2.	Kvam, P. H. & Vidakovic, Brani. (2007). Nonparametric Statistics with Applications to Science and Engineering. Wiley. p. 158
-3.	Newcomb, S. (1881). Note on the frequency of use of the different digits in natural numbers. American Journal of Mathematics. American Journal of Mathematics, Vol. 4, No. 1. 4 (1/4): 39–40. doi:10.2307/2369148. JSTOR 2369148.
-4.	Pinkham, R. S. (1961). On the Distribution of First Significant Digits. Ann. Math. Statist. Volume 32, Number 4 (1961), 1223-1230.
-5.	Smith, W, S. (2012) The Scientist and Engineer's Guide to Digital Signal Processing, chapter 34. 
-6.	Fewster, R. M. (2009). A simple explanation of Benford's Law. The American Statistician, 63 (1): 26–32. doi:10.1198/tast.2009.0005.
-7.	Washington, L. C. (1981). Benford's Law for Fibonacci and Lucas Numbers. The Fibonacci Quarterly, 19 (2): 175–177.
-8.	Raimi, R. A. (1976). The First Digit Problem. American Mathematical Monthly, 83 (7): 521–538. doi:10.2307/2319349.
-9.	Stephens, M. A. (1970). Use of the Kolmogorov–Smirnov, Cramér–Von Mises and Related Statistics without Extensive Tables. Journal of the Royal Statistical Society, Series B. 32 (1): 115–122.
-10.	Nash, J. R. (1976). Darkest Hours. Rowman & Littlefield, p. 775.
-11.	Franke, H. & Twitchett, D. C. (Eds.). (1994). The Cambridge History of China: Alien Regimes And Border States. 907–1368, 1994, p.622
-12.	Joh, B. (2013). World Christian Trends. William Carey Library. 
-13.	BBC. (2006, September 13). Hope fades for water park victims. BBC News. http://news.bbc.co.uk/2/hi/europe/3489915.stm
-14.	Age. (1979, June 11). Seven die at fun fair: Suddenly fire and smoke make the mock horror real. The Age. 
-15.	Brakenridge, G. R. (1985). Global Active Archive of Large Flood Events. Dartmouth Flood Observatory, University of Colorado. 
-16.	Sandron, F. (2002). Les populations suivent-elles la loi des nombres anomaux?. Population, vol. 57,(4), 753-761. doi:10.3917/popu.204.0761.
+Benford, F. (1938). The Law of Anomalous Numbers. Proceedings of the American Philosophical Society, 78(4), 551-572. Retrieved November 2, 2020, from http://www.jstor.org/stable/984802
+
+Brakenridge, G. R. (1985). Global Active Archive of Large Flood Events. Dartmouth Flood Observatory, University of Colorado. 
+
+Fewster, R. M. (2009). A simple explanation of Benford's Law. The American Statistician, 63 (1): 26–32. doi:10.1198/tast.2009.0005.
+
+Franke, H. & Twitchett, D. C. (Eds.). (1994). The Cambridge History of China: Alien Regimes And Border States. 907–1368, 1994, p.622
+
+Hope fades for water park victims. (2006, September 13). BBC News. Retrieved from http://news.bbc.co.uk/2/hi/europe/3489915.stm
+
+Joh, B. (2013). World Christian Trends. William Carey Library. 
+
+Kvam, P. H. & Vidakovic, Brani. (2007). Nonparametric Statistics with Applications to Science and Engineering. Wiley. p. 158
+
+Nash, J. R. (1976). Darkest Hours. Rowman & Littlefield, p. 775.
+
+Newcomb, S. (1881). Note on the frequency of use of the different digits in natural numbers. American Journal of Mathematics. American Journal of Mathematics, Vol. 4, No. 1. 4 (1/4): 39–40. doi:10.2307/2369148. JSTOR 2369148.
+
+Pinkham, R. S. (1961). On the Distribution of First Significant Digits. Ann. Math. Statist. Volume 32, Number 4 (1961), 1223-1230.
+
+Raimi, R. A. (1976). The First Digit Problem. American Mathematical Monthly, 83 (7): 521–538. doi:10.2307/2319349.
+
+Sandron, F. (2002). Les populations suivent-elles la loi des nombres anomaux?. Population, vol. 57,(4), 753-761. doi:10.3917/popu.204.0761.
+
+Seven die at fun fair. (1979, June 11). The Age. Retrieved from https://news.google.com/newspapers?id=ydoQAAAAIBAJ&pg=4980,4921257&dq=luna+park+fire.
+
+Smith, W, S. (2012) The Scientist and Engineer's Guide to Digital Signal Processing, chapter 34. 
+
+Stephens, M. A. (1970). Use of the Kolmogorov–Smirnov, Cramér–Von Mises and Related Statistics without Extensive Tables. Journal of the Royal Statistical Society, Series B. 32 (1): 115–122.
+
+Washington, L. C. (1981). Benford's Law for Fibonacci and Lucas Numbers. The Fibonacci Quarterly, 19 (2): 175–177.
