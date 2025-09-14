@@ -1,3 +1,7 @@
 - Can normally distributed data follow benford's law?
 - Sample of national election: clustered/stratified/whole
 - Analyse AL counts for all/sample centers
+
+
+Methodology
+
